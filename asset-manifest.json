@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/News-KHABARDAAR/static/css/main.f855e6bc.css",
+    "main.js": "/News-KHABARDAAR/static/js/main.2cb30358.js",
+    "static/js/787.32ca1217.chunk.js": "/News-KHABARDAAR/static/js/787.32ca1217.chunk.js",
+    "index.html": "/News-KHABARDAAR/index.html",
+    "main.f855e6bc.css.map": "/News-KHABARDAAR/static/css/main.f855e6bc.css.map",
+    "main.2cb30358.js.map": "/News-KHABARDAAR/static/js/main.2cb30358.js.map",
+    "787.32ca1217.chunk.js.map": "/News-KHABARDAAR/static/js/787.32ca1217.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2cb30358.js"
+  ]
+}
